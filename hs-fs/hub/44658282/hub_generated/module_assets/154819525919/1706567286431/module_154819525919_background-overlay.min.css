@@ -1,0 +1,1 @@
+.bg-overlay-editor{color:#fff;padding:10px;position:relative;z-index:3}.bg-overlay__overlay,.bg-overlay__video{height:100%;width:100%}.bg-overlay__video{bottom:0;left:0;object-fit:cover;position:absolute;right:0;top:0;z-index:-1}.bg-overlay-content{position:relative}.bg-overlay__video--mobile{display:none}
