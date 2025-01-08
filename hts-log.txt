@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Wed, 08 Jan 2025 12:12:49 at https://validdatum.com/
+(httrack https://validdatum.com/ -O ./validdatum-copy )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:13:32	Error: 	"Not Found" (404) at link https://validdatum.com/validDatum-theme/templates/partials/footer.html (from https://validdatum.com/)
+12:13:33	Warning: 	Moved Permanently for validdatum.com/robots.txt
+12:13:33	Warning: 	Redirected link is identical because of 'URL Hack' option: validdatum.com/robots.txt and https://validdatum.com/robots.txt
+12:13:33	Warning: 	Warning moved treated for validdatum.com/robots.txt (real one is https://validdatum.com/robots.txt)
+12:13:33	Warning: 	Moved Permanently for validdatum.com/?hsLang=en
+12:13:33	Warning: 	Redirected link is identical because of 'URL Hack' option: validdatum.com/?hsLang=en and https://validdatum.com/?hsLang=en
+12:13:33	Warning: 	File has moved from validdatum.com/?hsLang=en to https://validdatum.com/?hsLang=en
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 39 links scanned, 35 files written (1687588 bytes overall) [1092507 bytes received at 24829 bytes/sec], 965448 bytes transferred using HTTP compression in 24 files, ratio 27%, 14.3 requests per connection
+(1 errors, 6 warnings, 0 messages)

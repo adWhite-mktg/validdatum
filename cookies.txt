@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.net	TRUE	/	FALSE	1999999999	__cf_bm	S6f0qVS0Of0ApOyopQ8mwjRR80ek7rIvDbQr3FOdA6s-1736359988-1.0.1.1-LfFfHprJAI_wFF6xKgf0YHQRnstov2phvBhT0B72ch1D9WZ2_kSMbDgL3edhwGrqTsvAmc29QKXn2XJPHw206w
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	1MRmqxvYqEFMRNbe6nXJxqhE8IucXuIXeJTRUqOr_wg-1736360007-1.0.1.1-coHOk4ym8xVo2f1814z7S6sbmfaiREngC0aUC39rUUH8DLTpYq9GDO.yy1jc44tCEZ.J12Ug79Q1V7fIV9sRvg
+.hubspotusercontent.com	TRUE	/	FALSE	1999999999	__cf_bm	kfIPMS0DN7cKIV4S5YWyZkiiAW5g7JMVgyktl6Jub.k-1736360008-1.0.1.1-q58FcIHhg5tLQY8MNkws2.x8JwK1OMD3pUY6YZAhBqqkS3k1qgbBTP8d8xGUg.K0TjJ.bRzjFZycOdwCD6bB2w
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	gkm1KFu2eVnyEhv4HRKS7ASO4wWnhTcvgWNiF2YeZqU-1736360011-1.0.1.1-FGmY.s6v9PcScQaDL4uHix7JYa8xilU2FEcVToTHcc.VM9ON_vKVYjamX_ggdfIJHCwJw2kBvhhk_64ZoVQbeg
+validdatum.com	TRUE	/	FALSE	1999999999	SameSite	None
+.validdatum.com	TRUE	/	FALSE	1999999999	__cf_bm	LLjtEk1syoQuQXaocZiTG07ZkE9s5j8sxRW8J4m6AQg-1736360012-1.0.1.1-bPJUddEgAjMbrNq3XHZI1_v8tkNjh97T2bckZ5Mq0vd7wnxXkWFil4U6wWotSsZcrk8HpE0UTqQ2UDVuV7JkIA
+.validdatum.com	TRUE	/	FALSE	1999999999	_cfuvid	DD.ZO3pC8vUc_VrY6UzDucEXtTcd_qy3lhwiEFk5quE-1736360012121-0.0.1.1-604800000
+
